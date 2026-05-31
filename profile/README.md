@@ -1,5 +1,5 @@
 ## Palace Audio
 
-Audio tools for producers and listeners.
+Open-source audio tools.
 
-Open-source, maintained by [Alp Isbir](https://github.com/alpisbir54)
+Maintained by [Alp Isbir](https://github.com/alpisbir54)
